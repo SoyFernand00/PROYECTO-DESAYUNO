@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\loisf\\source\\repos\\Menu\\",
+  "WorkspaceRootPath": "C:\\Users\\FABRI LLARA\\Documents\\PROYECTO-DESAYUNO1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\loisf\\source\\repos\\menu\\proyecto_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\fabri llara\\documents\\proyecto-desayuno1\\proyecto_clase\\desayunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|solutionrelative:proyecto_clase\\desayunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\fabri llara\\documents\\proyecto-desayuno1\\proyecto_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|solutionrelative:proyecto_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +22,30 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Desayunos.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\Documents\\PROYECTO-DESAYUNO1\\PROYECTO_CLASE\\Desayunos.cs",
+              "RelativeDocumentMoniker": "PROYECTO_CLASE\\Desayunos.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\Documents\\PROYECTO-DESAYUNO1\\PROYECTO_CLASE\\Desayunos.cs*",
+              "RelativeToolTip": "PROYECTO_CLASE\\Desayunos.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:31:25.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\loisf\\source\\repos\\Menu\\PROYECTO_CLASE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\Documents\\PROYECTO-DESAYUNO1\\PROYECTO_CLASE\\Program.cs",
               "RelativeDocumentMoniker": "PROYECTO_CLASE\\Program.cs",
-              "ToolTip": "C:\\Users\\loisf\\source\\repos\\Menu\\PROYECTO_CLASE\\Program.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\Documents\\PROYECTO-DESAYUNO1\\PROYECTO_CLASE\\Program.cs",
               "RelativeToolTip": "PROYECTO_CLASE\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T18:28:07.425Z",
               "EditorCaption": ""
