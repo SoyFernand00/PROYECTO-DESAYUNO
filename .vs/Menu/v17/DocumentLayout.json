@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "PROYECTO_CLASE\\Desayuno.cs",
               "ToolTip": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\PROYECTO_CLASE\\Desayuno.cs",
               "RelativeToolTip": "PROYECTO_CLASE\\Desayuno.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwDkAAABSAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDkAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T00:03:55.506Z",
               "EditorCaption": ""
@@ -40,15 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PROYECTO_CLASE",
+              "Title": "PROYECTO_CLASE.csproj",
               "DocumentMoniker": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\PROYECTO_CLASE\\PROYECTO_CLASE.csproj",
               "RelativeDocumentMoniker": "PROYECTO_CLASE\\PROYECTO_CLASE.csproj",
               "ToolTip": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\PROYECTO_CLASE\\PROYECTO_CLASE.csproj",
               "RelativeToolTip": "PROYECTO_CLASE\\PROYECTO_CLASE.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-13T23:27:26.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T23:27:26.017Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "PROYECTO_CLASE\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:28:07.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T18:28:07.425Z"
             }
           ]
         }

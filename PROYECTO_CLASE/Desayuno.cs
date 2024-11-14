@@ -55,7 +55,7 @@ namespace PROYECTO_CLASE
                 }
                 else
                 {
-                    Console.WriteLine("El elemento no se encontró en el conjunto:(");
+                    Console.WriteLine("El elemento no se encontró en el conjunto:((");
                 }
             }
         }
