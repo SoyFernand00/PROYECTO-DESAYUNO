@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\loisf\\source\\repos\\Menu\\",
+  "WorkspaceRootPath": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\loisf\\source\\repos\\menu\\proyecto_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\samua\\proyecto-desayuno\\proyecto_clase\\desayuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|solutionrelative:proyecto_clase\\desayuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\samua\\proyecto-desayuno\\proyecto_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|solutionrelative:proyecto_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\samua\\proyecto-desayuno\\proyecto_clase\\proyecto_clase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|solutionrelative:proyecto_clase\\proyecto_clase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Desayuno.cs",
+              "DocumentMoniker": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\PROYECTO_CLASE\\Desayuno.cs",
+              "RelativeDocumentMoniker": "PROYECTO_CLASE\\Desayuno.cs",
+              "ToolTip": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\PROYECTO_CLASE\\Desayuno.cs",
+              "RelativeToolTip": "PROYECTO_CLASE\\Desayuno.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:03:55.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PROYECTO_CLASE",
+              "DocumentMoniker": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\PROYECTO_CLASE\\PROYECTO_CLASE.csproj",
+              "RelativeDocumentMoniker": "PROYECTO_CLASE\\PROYECTO_CLASE.csproj",
+              "ToolTip": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\PROYECTO_CLASE\\PROYECTO_CLASE.csproj",
+              "RelativeToolTip": "PROYECTO_CLASE\\PROYECTO_CLASE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T23:27:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\loisf\\source\\repos\\Menu\\PROYECTO_CLASE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\PROYECTO_CLASE\\Program.cs",
               "RelativeDocumentMoniker": "PROYECTO_CLASE\\Program.cs",
-              "ToolTip": "C:\\Users\\loisf\\source\\repos\\Menu\\PROYECTO_CLASE\\Program.cs",
+              "ToolTip": "C:\\Users\\samua\\PROYECTO-DESAYUNO\\PROYECTO_CLASE\\Program.cs",
               "RelativeToolTip": "PROYECTO_CLASE\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T18:28:07.425Z",
               "EditorCaption": ""

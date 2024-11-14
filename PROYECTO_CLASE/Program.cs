@@ -1,5 +1,8 @@
-﻿byte opcion;
+﻿using PROYECTO_CLASE;
+
+byte opcion;
 string vol;
+
 
 do
 {
@@ -19,7 +22,14 @@ do
         case 0: Environment.Exit(0); break;
         case 1: break;
         case 2: break;
-        case 3: break;
+        case 3:
+            Console.Write("Ingrese el desayuno que desea eliminar: ");
+            string desayunoEliminar = Console.ReadLine();
+            desayuno.Eliminar(desayunoEliminar);  
+            break;
+
+
+            break;
     }
     Console.WriteLine("¿Volver al menú? [si]: ");
     vol = Console.ReadLine().ToLower();
