@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\loisf\\Downloads\\Menu\\",
+  "WorkspaceRootPath": "C:\\Users\\Renato\\Downloads\\PROYECTO-DESAYUNOfork2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\loisf\\downloads\\menu\\proyecto_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\renato\\downloads\\proyecto-desayunofork2\\proyecto_clase\\desayuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|solutionrelative:proyecto_clase\\desayuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|c:\\users\\renato\\downloads\\proyecto-desayunofork2\\proyecto_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB5F88BB-9C77-498D-ADD5-47A5DD3EACC3}|PROYECTO_CLASE\\PROYECTO_CLASE.csproj|solutionrelative:proyecto_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -17,20 +21,29 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Downloads\\PROYECTO-DESAYUNOfork2\\PROYECTO_CLASE\\Program.cs",
+              "RelativeDocumentMoniker": "PROYECTO_CLASE\\Program.cs",
+              "ToolTip": "C:\\Users\\Renato\\Downloads\\PROYECTO-DESAYUNOfork2\\PROYECTO_CLASE\\Program.cs",
+              "RelativeToolTip": "PROYECTO_CLASE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:26:35.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\loisf\\Downloads\\Menu\\PROYECTO_CLASE\\Program.cs",
-              "RelativeDocumentMoniker": "PROYECTO_CLASE\\Program.cs",
-              "ToolTip": "C:\\Users\\loisf\\Downloads\\Menu\\PROYECTO_CLASE\\Program.cs",
-              "RelativeToolTip": "PROYECTO_CLASE\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Title": "desayuno.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Downloads\\PROYECTO-DESAYUNOfork2\\PROYECTO_CLASE\\desayuno.cs",
+              "RelativeDocumentMoniker": "PROYECTO_CLASE\\desayuno.cs",
+              "ToolTip": "C:\\Users\\Renato\\Downloads\\PROYECTO-DESAYUNOfork2\\PROYECTO_CLASE\\desayuno.cs",
+              "RelativeToolTip": "PROYECTO_CLASE\\desayuno.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wEYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:28:07.425Z",
+              "WhenOpened": "2024-11-13T21:11:43.992Z",
               "EditorCaption": ""
             }
           ]
