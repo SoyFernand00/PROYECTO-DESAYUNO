@@ -6,75 +6,68 @@ using System.Threading.Tasks;
 
 namespace PROYECTO_CLASE
 {
-    internal class desayuno
+    public class desayuno
     {
-        static void Main()
-        {
-            byte opcion;
-            string vol;
-            List<string> lista = new List<string>(); // Lista para almacenar elementos
+        string[] Desayuno1 = new string[0];
+        int posicion = 0;
+        string seguir = "s";
 
+
+        public void insertar()
+        {
             do
             {
-                Console.WriteLine("\tMENU");
-                Console.WriteLine("Crear [1]:");
-                Console.WriteLine("Lista [2]:");
-                Console.WriteLine("Eliminar [3]:");
-                Console.WriteLine("Salir [0]:");
+                string Respuesta;
+                Console.Write("\n¿Ingresa el desayuno que te gustaria? : ");
+                Respuesta = Console.ReadLine();
+                Array.Resize(ref Desayuno1, Desayuno1.Length + 1);
+                Desayuno1[posicion] = Respuesta;
+                posicion++;
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("\n!!Desayuno ingresado correctamente!! ");
 
-                Console.WriteLine("Ingrese opcion: ");
-                while (!byte.TryParse(Console.ReadLine(), out opcion) || opcion > 3)
+            } while (seguir == "N");
+
+        }
+        public void crear()
+        {
+            Console.SetCursorPosition(10, 12);
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.Write("Servidos: ");
+            Console.SetCursorPosition(30, 12);
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.Write("Desayunos: ");
+            for (int i = 0; i < Desayuno1.Length; i++)
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.SetCursorPosition(10, 13 + i);
+                Console.Write(i);
+                Console.SetCursorPosition(30, 13 + i);
+                Console.Write(Desayuno1[i]);
+
+            }
+        }
+        public void eliminar1(string Desa)
+        {
+            int indice = Array.IndexOf(Desayuno1, Desa);
+            if (indice != -1)
+            {
+                for (int i = indice; i < Desayuno1.Length - 1; i++)
                 {
-                    Console.WriteLine("Error: Ingrese una opcion valida: ");
+                    Desayuno1[i] = Desayuno1[i + 1];
                 }
+                Array.Resize(ref Desayuno1, Desayuno1.Length - 1);
+                posicion--;
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("\nUn desayuno fue eliminado correctamente");
 
-                switch (opcion)
-                {
-                    case 0:
-                        Environment.Exit(0);
-                        break;
-
-                    case 1: // Crear
-                        Console.WriteLine("Ingrese el desayuno a la lista: ");
-                        string desayunonuevo = Console.ReadLine();
-                        lista.Add(desayunonuevo);
-                        Console.WriteLine($"desayuno '{desayunonuevo}' agregado a la lista.");
-                        break;
-
-                    case 2: // Mostrar lista
-                        Console.WriteLine("Lista de desayunos:");
-                        if (lista.Count == 0)
-                        {
-                            Console.WriteLine("La lista está vacía.");
-                        }
-                        else
-                        {
-                            foreach (var item in lista)
-                            {
-                                Console.WriteLine(item);
-                            }
-                        }
-                        break;
-
-                    case 3: // Eliminar
-                        Console.WriteLine("Ingrese el desayuno a eliminar de la lista: ");
-                        string eliminardesayuno = Console.ReadLine();
-                        if (lista.Remove(eliminardesayuno))
-                        {
-                            Console.WriteLine($"desayuno '{eliminardesayuno}' eliminado.");
-                        }
-                        else
-                        {
-                            Console.WriteLine("el desayuno  no encontrado en la lista.");
-                        }
-                        break;
-                }
-
-                Console.WriteLine("¿Volver al menú? [si]: ");
-                vol = Console.ReadLine().ToLower();
-                Console.Clear();
-
-            } while (vol == "si");
+            }
+            else
+            {
+                Console.WriteLine("\nNo se puede eliminar Porque no Existe el parametro especifico !! ");
+            }
         }
     }
 }
+//Fabrizzio Jair Llara Campano 12/11/2024 11:00pm
+//cambio otra vez por ferloco
